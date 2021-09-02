@@ -1,2 +1,3 @@
-# assignment2-daleske
-Assignment 2 for Web Apps and Development
+# Jacob Daleske
+#### My Parents house in Capitan, New Mexico
+My Parenst live in a very small house in New Mexico. **Even though I am not a fan of the state itself**, seeing the mountains when you wake up is such a beautiful experience. There, I feel like I have **no stress** to bother me. I always get the time to at least work on one of my father's many project cars he has laying around. Every time I visit, I never want to leave.
