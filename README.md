@@ -2,7 +2,7 @@
 #### My Parents house in Capitan, New Mexico
 My Parenst live in a very small house in New Mexico. **Even though I am not a fan of the state itself**, seeing the mountains when you wake up is such a beautiful experience. There, I feel like I have **no stress** to bother me. I always get the time to at least work on one of my father's many project cars he has laying around. Every time I visit, I never want to leave.
 ---
-## Directions to my Favorite Place
+## Directions to my Favorite Place:
 1. Travel South on US-71
 2. Take US-59 S to KS-4
 3. Follow until I-335 S
@@ -10,3 +10,9 @@ My Parenst live in a very small house in New Mexico. **Even though I am not a fa
 5. Follow until I-40 W
 6. Hop back onto US-54 W
 7. Take US-380 E until Capitan, New Mexico
+
+##### Items needed:
+* Vehicle, you will be driving close to 14 hours
+* At least one person to have deep philisophical conversations with
+* At least $500 so you can buy snacks, gas, and other stuff
+* Enjoy your stay
