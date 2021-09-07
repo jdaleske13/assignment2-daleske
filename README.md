@@ -30,4 +30,12 @@ Food and Drink Table
 | Pizza | Walmart/Hyvee | $5 |
 | Water | Basically Anywhere | $1 |
 | Quesadilla | Taco Bell | $5 - $7 |
+---
+### My Favorite Quotes
+> My Fellow Americans, ask not what your country can do for you, ask what you can do for your country.
+>> *John F Kennedy*
+
+> At the end of the day, just know I tried.
+>> *Robert Daleske*
+
 
