@@ -18,3 +18,16 @@ My Parenst live in a very small house in New Mexico. **Even though I am not a fa
 * Enjoy your stay
 
 **[Learn more About Me](AboutMe.md)**
+---
+### Best Foods/Drinks In my Opinion
+
+Have you ever been sitting there wondering what to eat/drink? I know I have, and that's why I created this table to help people choose what they should eat or drink!
+
+Food and Drink Table
+| Food/Drink | Location | Price |
+| --- | --- | --- |
+| Dr.Pepper | Basically Anywhere | $2 |
+| Pizza | Walmart/Hyvee | $5 |
+| Water | Basically Anywhere | $1 |
+| Quesadilla | Taco Bell | $5 - $7 |
+
