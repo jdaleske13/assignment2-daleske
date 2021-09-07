@@ -1,3 +1,3 @@
 # Jacob Daleske
 Hello all, if you are here then you are looking for more information about me. Well, I am a mechanic that is self taught and has worked on dozens of projects. At the moment, I am currently rebuilding my best friend's 1985 Dodge Daytona. Along with that, I am currently rebuilding a 455 Oldsmobile Big Block to fit into a 1983 Toyota Celica Supra Mark 2. I am a grease monkey that loves to get dirty. I am also a huge nerd. I have started a programming project so that I can control the automatic pop up headlights on my Supra with a switch. I plan on getting this done sometime within the next couple of years.
-![Toyota Celica Supra] (assignment2-daleske\Supra.jpeg)
+![Toyota Celica Supra] (images\Supra.jpeg)
