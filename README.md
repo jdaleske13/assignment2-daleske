@@ -16,3 +16,5 @@ My Parenst live in a very small house in New Mexico. **Even though I am not a fa
 * At least one person to have deep philisophical conversations with
 * At least $500 so you can buy snacks, gas, and other stuff
 * Enjoy your stay
+
+**[Learn more About Me](AboutMe.md)**
